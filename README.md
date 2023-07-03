@@ -17,7 +17,6 @@ Meu nome é Juliana e eu sou estudante de analise e desenvolvimento de sistemas 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 <br />
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 <br />
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
